@@ -1,7 +1,7 @@
 # ARC_projects
 All of Advanced Robotics Club Projects, Robot and Competitions Codes.
 
-https://github.com/kshitijsubedi/ARC_projects_2018-2019
+Private Repository :: https://github.com/kshitijsubedi/ARC_projects_2018-2019 
 
 # RAPBERRY PI CODES :
 - Akhada Manual Robot Competition
